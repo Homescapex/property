@@ -1,0 +1,6 @@
+@HomescapeX_Property_HostAddress = http://localhost:5183
+
+GET {{HomescapeX_Property_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
